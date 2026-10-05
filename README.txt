@@ -1,6 +1,8 @@
 TELEPROMPTER for Windows 11  (Hebrew / RTL ready)
 =================================================
 
+This Teleprompter was created to fill a need for a free Prompter software that has full Hebrew support.
+
 FIRST RUN (one time, about 5 seconds)
   1. Unzip this folder anywhere (e.g. Desktop).
   2. Double-click  build.bat
